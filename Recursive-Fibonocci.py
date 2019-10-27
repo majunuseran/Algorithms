@@ -7,4 +7,4 @@ def fibonacci(index):
         return fibonacci(index - 1) + fibonacci(index - 2)
 
 
-print("fibonacci series number at index 100 is ..." + str(fibonacci(100)))
+print("fibonacci series number at index 15 is ..." + str(fibonacci(15)))
